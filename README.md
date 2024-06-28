@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dlocktherock
-- 👀 I’m interested in learning all the ins and outs of web development
+- 👋 Hi, I’m @Dlocktherock. 23 M from the states.
+- 👀 I’m interested in learning all the ins and outs of web development. 
 - 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning python.
 - 📫 How to reach me: message me on here
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am a RN, BSN.
 
 <!---
 Dlocktherock/Dlocktherock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
